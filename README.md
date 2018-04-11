@@ -24,7 +24,7 @@ Values can be in the following formats
  - Hex - 0x34
  - Hex - 34h
  - Decimal - 52
-There is no error checking, so entering anything not in these formats will probably not end well.
+- There is no error checking, so entering anything not in these formats will probably not end well.
 
 Examples -
 -----------------
