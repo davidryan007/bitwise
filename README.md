@@ -15,9 +15,9 @@ Imported Python modules
 
 Usage
 -----
- and.py value1 value2
- or.py value1 value2
- xor.py value1 value2
+ - and.py value1 value2
+ - or.py value1 value2
+ - xor.py value1 value2
  
 Values can be in the following formats
 --------------------------------------
