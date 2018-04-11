@@ -1,8 +1,7 @@
 # bitwise
-A set of basic bitwise calculators
-Written in Python 3
+A set of basic bitwise calculators written in Python 3
 
-Includes
+Included files
 --------
  - and.py
  - or.py
@@ -24,7 +23,7 @@ Values can be in the following formats
  - Hex - 0x34
  - Hex - 34h
  - Decimal - 52
-- There is no error checking, so entering anything not in these formats will probably not end well.
+ - There is no error checking, so entering anything not in these formats will probably not end well.
 
 Examples -
 -----------------
